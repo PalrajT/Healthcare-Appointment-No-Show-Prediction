@@ -1,0 +1,19 @@
+# Healthcare Appointment No-Show Prediction - Required Packages
+
+# Data manipulation and analysis
+pandas==1.5.3
+numpy==1.24.3
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine learning
+scikit-learn==1.2.2
+
+# Jupyter notebooks
+jupyter==1.0.0
+ipykernel==6.22.0
+
+# Dashboard creation (for Power BI integration)
+openpyxl==3.1.2
